@@ -1,4 +1,5 @@
-# Learning-git
+Learning Git
+=============
 
 Git
 ---
