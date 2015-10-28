@@ -1,12 +1,14 @@
-Learning Git
-=============
+# Git 学習ログ
 
-Git
----
+## ドキュメント
+
+- [ローカルでGitするメモ](https://gist.github.com/kesuiket/4ca522cc9b50efdc70ad)
 
 
-GitHub
-------
+## Git
+
+
+## GitHub
 ### GitHub Markdown
 
 - [Code blocks Syntax language](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
