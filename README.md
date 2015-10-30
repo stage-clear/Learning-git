@@ -2,7 +2,7 @@
 
 ## ドキュメント
 
-- [(Gist) ローカルでGitするメモ](https://gist.github.com/kesuiket/4ca522cc9b50efdc70ad)
+- [ローカルにリモートGitを置く](doc/local-remote-git.md)
 
 
 ## Git
