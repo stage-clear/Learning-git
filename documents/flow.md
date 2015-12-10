@@ -23,4 +23,4 @@ $ git push
 /Origin
 ```
 
-/play greatjob
+:joy:
