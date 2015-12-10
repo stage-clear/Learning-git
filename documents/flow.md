@@ -2,26 +2,22 @@
 作業してからコミット/プッシュするまでにできること。
 
 ```txt
-/Local
-┬
+/Local < Working..
+┬─ 
 ↓
-┴
-> I'm working.
-┬
-↓
-├── $ git reset - 編集を削除
-├── $ git stash - 編集を退避
-┴
+├── `$ git reset` - 編集を削除
+├── `$ git stash` - 編集を退避
+┴─ 
 $ git commit
-┬
+┬─ 
 ↓
-├── $ git commit --amenda - 前回のコミットを編集
-├── $ git rebase - コミットを編集
-├── $ git 
-├── $ git cherry pick - コミットをブランチ間で移動
-┴
+├── `$ git commit --amenda` - 前回のコミットを編集
+├── `$ git rebase` - コミットを編集
+├── `$ git` 
+├── `$ git cherry pick` - コミットをブランチ間で移動
+┴─ 
 $ git push
-┬
+┬─ 
 ↓
 ┴
 /Origin
