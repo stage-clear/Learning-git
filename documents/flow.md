@@ -3,6 +3,8 @@
 
 ```txt
 /Local < Working..
+┴─ 
+staging
 ┬─ 
 ↓
 ├── `$ git reset` - 編集を削除
