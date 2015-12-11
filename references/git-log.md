@@ -2,7 +2,7 @@
 
 ## ヘルプの内容
 
-```sh
+```
                    SUMMARY OF LESS COMMANDS
 
       Commands marked with * may be preceded by a number, N.
